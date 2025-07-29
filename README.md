@@ -23,3 +23,8 @@ Sample images used in this project:
 |--------|---------|
 | ![img3](img3.png) | ![img4](/img4.png) |
 
+
+**Bilal Zafar**  
+💻 Web Developer Intern  
+📧 bilalzafar7350@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/bilal-zafar-bb2a07276/)
